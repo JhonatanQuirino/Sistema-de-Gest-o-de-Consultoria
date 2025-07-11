@@ -66,4 +66,4 @@ MIT — sinta-se livre para usar, adaptar e compartilhar!
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por [Jhonatan Quirino](https://www.linkedin.com/in/jhonatanquirino/) 🚀
+Desenvolvido por [Jhonatan Quirino](https://www.linkedin.com/in/jhonatan-quirino/) 🚀
